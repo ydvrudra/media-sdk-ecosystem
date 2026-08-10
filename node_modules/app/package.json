@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "private": true,
     "scripts": {
-      "dev": "vite --host",
-      "build": "tsc && vite build",
-      "preview": "vite preview"
+        "dev": "vite --host",
+        "build": "vite build",
+        "preview": "vite preview"
     },
     "dependencies": {
       "media-react": "file:../media-react",
