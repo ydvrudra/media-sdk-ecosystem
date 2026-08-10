@@ -1,0 +1,1 @@
+{"version":3,"file":"MediaProvider.d.ts","sourceRoot":"","sources":["../../src/context/MediaProvider.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,EAAuB,SAAS,EAAE,MAAM,OAAO,CAAC;AAC9D,OAAO,EAAgB,kBAAkB,EAAE,MAAM,+BAA+B,CAAC;AAGjF,UAAU,kBAAkB;IAC1B,QAAQ,EAAE,SAAS,CAAC;IACpB,MAAM,EAAE,kBAAkB,CAAC;CAC5B;AAED,eAAO,MAAM,aAAa,EAAE,KAAK,CAAC,EAAE,CAAC,kBAAkB,CAoBtD,CAAC"}

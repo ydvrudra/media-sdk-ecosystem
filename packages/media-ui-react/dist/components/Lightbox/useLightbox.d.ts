@@ -1,0 +1,1 @@
+//# sourceMappingURL=useLightbox.d.ts.map

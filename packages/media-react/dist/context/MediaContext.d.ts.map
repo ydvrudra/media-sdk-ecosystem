@@ -1,0 +1,1 @@
+{"version":3,"file":"MediaContext.d.ts","sourceRoot":"","sources":["../../src/context/MediaContext.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,+BAA+B,CAAC;AAE7D,MAAM,WAAW,iBAAiB;IAChC,MAAM,EAAE,YAAY,GAAG,IAAI,CAAC;IAC5B,aAAa,EAAE,OAAO,CAAC;CACxB;AAED,eAAO,MAAM,YAAY,mDAAgD,CAAC;AAE1E,eAAO,MAAM,eAAe,yBAM3B,CAAC"}
