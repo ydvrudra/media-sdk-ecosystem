@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "private": true,
     "workspaces": [
-      "packages/*"
+      "packages/media-core",
+      "packages/media-react",
+      "packages/media-ui-react",
+      "packages/app"
     ],
     "scripts": {
       "build": "npm run build --workspaces --if-present",
